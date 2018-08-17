@@ -79,8 +79,8 @@ Crie um arquivo chamado `hello_world_seunome.xx` Dentro da pasta de Scripts! Aqu
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Otacilio Maia
-// GITHUB: https://github.com/OtacilioN
+// AUTHOR: Seu Nome
+// GITHUB: https://github.com/SeuNome
 
 console.log('Hello, World!');
 ```
