@@ -23,6 +23,8 @@ git config --global user.name "Seu Nome"
 git config --global user.email "seu@email.com"
 ```
 
+<img align="right" width="300" src="assets/fork.png" alt="fork este repositorio" />
+
 ### Faça um Fork
 
 Clique no botão "Fork" no canto superior direito da página, isto irá criar uma cópia deste repositório para a sua conta.
