@@ -1,7 +1,7 @@
-# Aprenda-Git
+# Aprenda Git
 Uma breve introdução aos conceitos básicos de Git, com uma linguagem simples e sem complicações.
 
-Nesse repositório iremos apresenta-lo a alguns conceitos essenciais para utilizar o Git de um forma fácil e prática. Aqui você vai aprender a colaborar em projetos open source deixando sua Marca no processo !
+Nesse repositório iremos apresenta-lo a alguns conceitos essenciais para utilizar o Git de um forma fácil e prática. Aqui você vai aprender a colaborar em projetos open source deixando sua Marca no processo!
 
 ## Como contribuir ?
 
@@ -12,33 +12,67 @@ Você pode deixar sua contribuição de duas maneiras diferentes:
 
 ## Primeiros passos
 
-Os passos para contribuir são simples:
+### Iniciando o ambiente
 
-* Primeiro dê um "Fork" nesse repósitório para possuir uma cópia dele em seu repositório privado.
+Se você ainda não tem o git no seu computador, [instale-o aqui](https://git-scm.com/downloads)
 
-* Clone o seu Fork para a sua máquina, assim você poderá editar os arquivos localmente para depois enviá-los de volta para o GitHub. Para clonar basta digitar o seguinte comando em seu terminal / cmd:
+Abra o terminal _ou cmd_ e digite:
 
-```markdown
-git clone https://github.com/your-username/Aprenda-Git.git
+```
+git config --global user.name "Seu Nome"
+git config --global user.email "seu@email.com"
+```
+
+<img align="right" width="280" src="assets/fork.png" alt="fork este repositorio" />
+
+### Faça um Fork
+
+Clique no botão "Fork" no canto superior direito da página, isto irá criar uma cópia deste repositório para a sua conta.
+
+### Clone o seu fork
+
+<img align="right" width="280" src="assets/clone.png" alt="clone este repositorio" />
+
+**Clone** o seu **Fork** para a sua máquina, este comando irá relizar o donwload do repositório, assim você poderá editar os arquivos localmente para depois enviá-los de volta para o GitHub.
+
+Para clonar digite em seu terminal:
+
+```
+git clone https://github.com/seuUsuario/Aprenda-Git.git
 
 ```
 
-* Crie um "Branch", um branch é uma ramificação do repositório inicial ele serve como uma forma de adicionar novidades sem modificar o código "Principal do projeto"
+### Crie um Branch
+
+Um **branch** é uma ramificação do repositório inicial ele serve como uma forma de adicionar novidades sem modificar o código "Principal do projeto".
 
 ```markdown
-git checkout -b branch-name
+git checkout -b nome-do-branch
 ```
 
-* Faça suas modificações adicionando seu perfil ou o script de hello world ( Sendo os dois melhor ! )
-* Dê um "Commit", assim você irá salvar suas modificações no repositório local e de um "Push" para que as modificações sejam enviadas para o servidor do GitHub !
+Faça suas modificações adicionando seu perfil ou o script de hello world (_Sendo os dois melhor !_) utilizando um editor de texto a sua escolha.
 
-```markdown
+### Adicione os arquivos modificados a zona de stage
+
+Nem sempre você irá querer "salvar" todos os arquivos que foram modificados naquele momento no git, apenas os arquivos adicionados à zona de **stage** são commitados, você pode especificar arquivo por arquivo a ser adicionado ou utilizar o símbolo: `.` para indicar todos os arquivos da pasta, assim:
+
+``` markdown
 git add .
-git commit -m 'Commit message'
-git push origin branch-name
 ```
 
-* Crie uma "Pull Request" do seu repositório "Fork" ( Basta Clicar em "New Pull Request" de dentro do seu repositório "Fork" )
+### Faça um "Commit"
+
+- Assim você irá salvar suas modificações no repositório local
+
+- Dê um "Push" para que as modificações sejam enviadas para o servidor do GitHub!
+
+```markdown
+git commit -m 'Adicionando fulano ao repositorio'
+git push origin nome-do-branch
+```
+### Volte para o site do GitHub
+
+* E crie uma "Pull Request" do seu repositório "Fork" (Basta Clicar em "New Pull Request" de dentro do seu repositório "Fork")
 * Agora só esperar que seu "Pull Request" seja adicionado nesse repositório!!!
 * __Clique na estrela__ se você gostou do tutorial!
 
@@ -46,28 +80,25 @@ git push origin branch-name
 
 ### Arquivo de perfil
 
-Crie um arqivo chamado `Seu_Nome.md` dentro da pasta Alunos. Você pode usar esse Arquivo como exemplo para criar seu perfil:
+Crie um arqivo chamado `SeuNome.md` dentro da pasta Alunos. Você pode usar esse Arquivo como exemplo para criar seu perfil:
 
 ```markdown
 # Seu Nome
 
-### Endereço
 
-Onde você mora
-
-### Curso
+## Curso
 
 Seu curso na CESAR School ou seus cursos anteriores
 
-### Interesses
+## Interesses
 
 - Algumas coisas que você gosta
 
-### Projetos
+## Projetos
 
 - [Meu Projeto](Link do GitHub) Breve Descrição. Se não houver link basta contar o que você fez !
 
-### Link do Perfil
+## Link do Perfil
 
 [Seu Nome](Link do GitHub)
 ```
