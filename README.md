@@ -82,7 +82,7 @@ git push origin nome-do-branch
 
 ### Arquivo de perfil
 
-Crie um arqivo chamado `SeuNome.md` dentro da pasta Alunos. Você pode usar esse Arquivo como exemplo para criar seu perfil:
+Crie um arquivo chamado `SeuNome.md` dentro da pasta Alunos. Você pode usar esse Arquivo como exemplo para criar seu perfil:
 
 ```markdown
 # Seu Nome
