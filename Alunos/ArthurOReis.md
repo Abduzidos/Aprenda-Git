@@ -10,6 +10,8 @@ Ciência da Computação - Turma 2018.1
 - Distros linux
 - Teoria musical
 - Diferentes tipos de macarrão
+- Animações Niponicas
+- Jogos eletronicos
 
 ## Projetos
 
