@@ -11,7 +11,7 @@ Nesse repositório iremos apresenta-lo a alguns conceitos essenciais para utiliz
 
 Se você ainda não tem o git no seu computador, [instale-o aqui](https://git-scm.com/downloads)
 
-Abra o terminal _ou cmd_ e digite:
+Abra o _terminal ou _cmd (no windows faça INICIAR+R e digite cmd e aperte enter) e digite:
 
 ```
 git config --global user.name "Seu Nome"
