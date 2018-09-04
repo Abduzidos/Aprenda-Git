@@ -1,9 +1,8 @@
-/* 
-->LANGUAGE: Assembly;
-->ENV: Node.js;
-->AUTHOR: Caio Cordeiro;
-->GITHUB: github.com/CaioCordeiro
-*/
+ 
+;->LANGUAGE: Assembly;
+;->AUTHOR: Caio Cordeiro;
+;->GITHUB: github.com/CaioCordeiro
+
 section .data
 msg     db      'Hello ,World!', 0AH
 len     equ     $-msg
