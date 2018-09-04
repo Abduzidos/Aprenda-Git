@@ -1,6 +1,5 @@
- 
-;->LANGUAGE: Assembly;
-;->AUTHOR: Caio Cordeiro;
+;->LANGUAGE: Assembly
+;->AUTHOR: Caio Cordeiro
 ;->GITHUB: github.com/CaioCordeiro
 
 section .data

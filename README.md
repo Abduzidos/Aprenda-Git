@@ -28,7 +28,7 @@ Clique no botão "Fork" no canto superior direito da página, isto irá criar um
 
 <img align="right" width="280" src="assets/clone.png" alt="clone este repositorio" />
 
-**Clone** o seu **Fork** para a sua máquina, este comando irá relizar o donwload do repositório, assim você poderá editar os arquivos localmente para depois enviá-los de volta para o GitHub.
+**Clone** o seu **Fork** para a sua máquina, este comando irá relizar o download do repositório, assim você poderá editar os arquivos localmente para depois enviá-los de volta para o GitHub.
 
 Para clonar digite em seu terminal:
 
