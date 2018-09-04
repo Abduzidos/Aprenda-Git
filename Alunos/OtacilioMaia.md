@@ -2,7 +2,7 @@
 
 ## Curso
 
-Ciência da Computação - Turma 2018.2
+Ciência da Computação - Turma 2018.1
 
 ## Interesses
 
