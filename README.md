@@ -101,7 +101,7 @@ git push origin nome-do-branch
 
 ## Dicas para a contribuição
 
-### Script de "Hello, World" 
+#### Script de "Hello, World" 
 
 Crie um arquivo chamado `hello_world_seunome.xx` Dentro da pasta de Scripts! Aqui um exemplo:
 
@@ -116,10 +116,10 @@ console.log('Hello, World!');
 
 Tente colocar alguns comentários ou link para referências, assim todo mundo aprende uma linguagem nova!
 
-## Ou
+### Ou
 
 
-### Crie sua arte
+#### Crie sua arte
 Crie um arquivo chamado 'minha_arte_seunome.jpg(ou png)' Dentro da pasta Artes!
 
 <img align="center" width="280" src="assets/14720466_1205743199496959_8812634110673377690_n.jpg" alt="Exemplo de arte" />
