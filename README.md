@@ -122,7 +122,7 @@ Tente colocar alguns comentários ou link para referências, assim todo mundo ap
 ### Crie sua arte
 Crie um arquivo chamado 'minha_arte_seunome.jpg(ou png)' Dentro da pasta Artes!
 
-<img align="center" width="280" src="assets/imageart.jpg" alt="Exemplo de arte" />
+<img align="center" width="280" src="assets/14720466_1205743199496959_8812634110673377690_n.jpg" alt="Exemplo de arte" />
 
 
 ## Bem-Vindo ao CESAR School!!!
