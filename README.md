@@ -5,13 +5,6 @@ Nesse repositório iremos apresenta-lo a alguns conceitos essenciais para utiliz
 
 [Para acessar a versão via GitHub Clasroom clique aqui!](via-classroom.md)
 
-## Como contribuir ?
-
-Você pode deixar sua contribuição de duas maneiras diferentes:
-
-* Adicione seu perfil na pasta de Alunos
-* Crie um "Hello, world" na linguagem que você preferir dentro da pasta Scripts
-
 ## Primeiros passos
 
 ### Iniciando o ambiente
@@ -53,34 +46,11 @@ git checkout -b nome-do-branch
 ```
 
 Faça suas modificações adicionando seu perfil ou o script de hello world (_Sendo os dois melhor !_) utilizando um editor de texto a sua escolha.
+### Crie seu arquivo
 
-### Adicione os arquivos modificados a zona de stage
+Crie um arquivo na pasta Alunos com seu perfil em um arquivo .md (o arquivo virá sem extenção padrão, por isso abra com o bloco de notas).
 
-Nem sempre você irá querer "salvar" todos os arquivos que foram modificados naquele momento no git, apenas os arquivos adicionados à zona de **stage** são commitados, você pode especificar arquivo por arquivo a ser adicionado ou utilizar o símbolo: `.` para indicar todos os arquivos da pasta, assim:
-
-``` markdown
-git add .
-```
-
-### Faça um "Commit"
-
-- Assim você irá salvar suas modificações no repositório local
-
-- Dê um "Push" para que as modificações sejam enviadas para o servidor do GitHub!
-
-```markdown
-git commit -m 'Adicionando fulano ao repositorio'
-git push origin nome-do-branch
-```
-### Volte para o site do GitHub
-
-* E crie uma "Pull Request" do seu repositório "Fork" (Basta Clicar em "New Pull Request" de dentro do seu repositório "Fork")
-* Agora só esperar que seu "Pull Request" seja adicionado nesse repositório!!!
-* __Clique na estrela__ se você gostou do tutorial!
-
-## Dicas para a contribuição
-
-### Arquivo de perfil
+#### Arquivo de perfil
 
 Crie um arquivo chamado `SeuNome.md` dentro da pasta Alunos. Você pode usar esse Arquivo como exemplo para criar seu perfil:
 
@@ -105,6 +75,32 @@ Seu curso na CESAR School ou seus cursos anteriores
 [Seu Nome](Link do GitHub)
 ```
 
+### Adicione os arquivos modificados a zona de stage
+
+Nem sempre você irá querer "salvar" todos os arquivos que foram modificados naquele momento no git, apenas os arquivos adicionados à zona de **stage** são commitados, você pode especificar arquivo por arquivo a ser adicionado ou utilizar o símbolo: `.` para indicar todos os arquivos da pasta, assim:
+
+``` markdown
+git add .
+```
+
+### Faça um "Commit"
+
+- Assim você irá salvar suas modificações no repositório local
+
+- Dê um "Push" para que as modificações sejam enviadas para o servidor do GitHub!
+
+```markdown
+git commit -m 'Adicionando meu Perfil!'
+git push origin nome-do-branch
+```
+### Volte para o site do GitHub
+
+* E crie uma "Pull Request" do seu repositório "Fork" (Basta Clicar em "New Pull Request" de dentro do seu repositório "Fork")
+* Agora só esperar que seu "Pull Request" seja adicionado nesse repositório!!!
+* __Clique na estrela__ se você gostou do tutorial!
+
+## Dicas para a contribuição
+
 ### Script de "Hello, World" 
 
 Crie um arquivo chamado `hello_world_seunome.xx` Dentro da pasta de Scripts! Aqui um exemplo:
@@ -119,6 +115,14 @@ console.log('Hello, World!');
 ```
 
 Tente colocar alguns comentários ou link para referências, assim todo mundo aprende uma linguagem nova!
+
+## Ou
+
+
+### Crie sua arte
+Crie um arquivo chamado 'minha_arte_seunome.jpg(ou png)' Dentro da pasta Artes!
+
+<img align="center" width="280" src="assets/imageart.jpg" alt="Exemplo de arte" />
 
 
 ## Bem-Vindo ao CESAR School!!!
