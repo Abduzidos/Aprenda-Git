@@ -3,8 +3,6 @@ Uma breve introdução aos conceitos básicos de Git, com uma linguagem simples 
 
 Nesse repositório iremos apresenta-lo a alguns conceitos essenciais para utilizar o Git de um forma fácil e prática. Aqui você vai aprender a colaborar em projetos open source deixando sua Marca no processo!
 
-[Para acessar a versão via GitHub Clasroom clique aqui!](via-classroom.md)
-
 ## Primeiros passos
 
 ### Iniciando o ambiente
@@ -60,7 +58,7 @@ Crie um arquivo chamado `SeuNome.md` dentro da pasta Alunos. Você pode usar ess
 
 ## Curso
 
-Seu curso na CESAR School ou seus cursos anteriores
+Seu curso no Senai
 
 ## Interesses
 
