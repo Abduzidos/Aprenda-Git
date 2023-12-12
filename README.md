@@ -3,8 +3,6 @@ Uma breve introdução aos conceitos básicos de Git, com uma linguagem simples 
 
 Nesse repositório iremos apresenta-lo a alguns conceitos essenciais para utilizar o Git de um forma fácil e prática. Aqui você vai aprender a colaborar em projetos open source deixando sua Marca no processo!
 
-[Para acessar a versão via GitHub Clasroom clique aqui!](via-classroom.md)
-
 ## Primeiros passos
 
 ### Iniciando o ambiente
@@ -60,7 +58,7 @@ Crie um arquivo chamado `SeuNome.md` dentro da pasta Alunos. Você pode usar ess
 
 ## Curso
 
-Seu curso na CESAR School ou seus cursos anteriores
+Seu curso no Senai
 
 ## Interesses
 
@@ -125,4 +123,3 @@ Crie um arquivo chamado 'minha_arte_seunome.jpg(ou png)' Dentro da pasta Artes!
 <img align="center" width="280" src="assets/14720466_1205743199496959_8812634110673377690_n.jpg" alt="Exemplo de arte" />
 
 
-## Bem-Vindo ao CESAR School<img align="center" width="100" src="assets/School.png" alt="School Logo" />!!!
